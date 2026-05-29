@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifysncrypt",
+        "uuid": 28624640,
+        "checksum": "182s5b"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
